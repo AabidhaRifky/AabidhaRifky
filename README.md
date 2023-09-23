@@ -1,4 +1,4 @@
-<img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/full-stack-developer.jpg?itok=MB2j2_Yt" alt="MasterHead">
+<img src="https://github.com/AabidhaRifky/AabidhaRifky/blob/main/FS%20(1)%20(1).png" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Aabidha Rifky</h1>
 <h3 align="center">A passionate Full Stack Developer Intern</h3>
