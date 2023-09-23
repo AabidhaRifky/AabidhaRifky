@@ -1,4 +1,4 @@
-<img src="https://github.com/AabidhaRifky/AabidhaRifky/blob/main/Fullstack-foreground.png" alt="MasterHead">
+<img src="https://github.com/AabidhaRifky/AabidhaRifky/blob/main/bg-fullstack-modified.png?raw=true" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Aabidha Rifky</h1>
 <h3 align="center">A passionate Full Stack Developer Intern</h3>
