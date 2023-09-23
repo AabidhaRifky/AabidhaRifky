@@ -1,4 +1,4 @@
-<img src="https://github.com/AabidhaRifky/AabidhaRifky/blob/main/bg-fullstack.png" alt="MasterHead">
+<img src="https://github.com/AabidhaRifky/AabidhaRifky/blob/main/Fullstack-foreground.png" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Aabidha Rifky</h1>
 <h3 align="center">A passionate Full Stack Developer Intern</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidharifky&label=Profile%20views&color=0e75b6&style=flat" alt="aabidharifky" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **.NET, MongoDB, React.js, Node.js and Angular**
 
